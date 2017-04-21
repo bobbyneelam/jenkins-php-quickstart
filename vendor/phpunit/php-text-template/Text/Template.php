@@ -1,5 +1,6 @@
 <?php
 /**
+//comments added by bobby
  * Text_Template
  *
  * Copyright (c) 2009-2014, Sebastian Bergmann <sebastian@phpunit.de>.
